@@ -1,8 +1,8 @@
 {
-    "name": "citizennet/Chargify-PHP-Client",
+    "name": "citizennet/chargify-php-client",
     "type": "library",
     "description": "Chargify PHP Client",
     "keywords": ["php"],
     "license": "MIT",
-    "homepage": "https://github.com/citizennet/Chargify-PHP-Client"
+    "homepage": "https://github.com/citizennet/chargify-php-client"
 }
